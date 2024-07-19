@@ -9,11 +9,6 @@
   "author": "Daniel",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.2.5",
-    "express": "^4.19.2",
     "vite": "^5.3.4"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.4"
   }
 }
